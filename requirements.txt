@@ -1,0 +1,4 @@
+browser-use
+playwright>=1.39.0  # Latest stable version
+pydantic
+certifi>=2024.2.2  # For SSL certificate handling
